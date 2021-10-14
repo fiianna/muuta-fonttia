@@ -1,0 +1,36 @@
+html {
+    font-size: 62.5%;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 10px;
+}
+
+body {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+h1 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    padding-bottom: 1rem;
+}
+
+li {
+    font-size: 1.6rem;
+    list-style: decimal;
+    padding: 0.5rem;
+    margin: 1rem;
+}
+
+p {
+    font-size: 1.6rem;
+    padding-top: 0.5rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+#nappi {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blue;
+    color: white;
+}
